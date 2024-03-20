@@ -1,0 +1,52 @@
+.header{
+    color: black;
+    text-align: center;
+    font-size: 22px;
+    border: 3.5px dotted black;
+    margin-top: 50px;
+    margin-left: 500px;
+    width: 500px;
+    background-color: antiquewhite;
+}
+.form-section{
+    border-style: solid;
+    width: 350px;
+    height: 180px;
+    margin-top: 50px;
+    margin-left: 500px;
+    background-color: aquamarine;
+    text-align: center;
+}
+#x{
+    width: 250px;
+    height: 30px;
+    border: 2.2px solid black;
+    margin-top: 15px;
+}
+#y{
+    width: 250px;
+    height: 30px;
+    border: 2.2px solid black;
+    margin-top: 15px;
+}
+#button{
+    width: auto;
+    height: 30px;
+    border: 2.2px solid black;
+    margin-top: 15px;
+    
+}
+.form{
+    color: black;
+    text-align: center;
+    font-size: 22px;
+    border: 3.5px dotted black;
+    margin-top: 50px;
+    margin-left: 500px;
+    width: 500px;
+    height: 280px;
+    background-color: antiquewhite;
+}
+h1{
+    text-decoration: underline;
+}
